@@ -1,0 +1,29 @@
+# tomcat
+server:
+  port: 8003
+spring:
+  application:
+    name: cloudDemo-backup
+#  boot:
+#    admin:
+#      client:
+#        url: "http://localhost:8000"
+  cloud:
+    consul:
+      host: localhost
+      port: 8500
+      discovery:
+        serviceName: ${spring.application.name}    # 注册到consul的服务名称
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+# backup datasource
+clouddemo:
+  backup:
+    datasource:
+      host: localhost
+      userName: root
+      password: yang104256
+      database: mango

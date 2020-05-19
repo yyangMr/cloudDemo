@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="91f45a87-0ba4-4cf4-8909-ca7585bc20f7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cloudDemo-common/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cloudDemo-common/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cloudDemo-common/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cloudDemo-common/target/classes/com/froufrou/cloudDemo/common/utils/DateTimeUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cloudDemo-common/target/classes/com/froufrou/cloudDemo/common/utils/FileUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cloudDemo-common/target/classes/com/froufrou/cloudDemo/common/utils/IOUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cloudDemo-common/target/classes/com/froufrou/cloudDemo/common/utils/PoiUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cloudDemo-common/target/classes/com/froufrou/cloudDemo/common/utils/ReflectionUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cloudDemo-common/target/classes/com/froufrou/cloudDemo/common/utils/StringUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cloudDemo-common/target/cloudDemo-common-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cloudDemo-common/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cloudDemo-common/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cloudDemo-common/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cloudDemo-common/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cloudDemo-common/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cloudDemo-core/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cloudDemo-core/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cloudDemo-core/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cloudDemo-core/target/classes/com/froufrou/cloudDemo/core/exception/MangoException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cloudDemo-core/target/classes/com/froufrou/cloudDemo/core/http/HttpResult.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cloudDemo-core/target/classes/com/froufrou/cloudDemo/core/http/HttpStatus.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cloudDemo-core/target/classes/com/froufrou/cloudDemo/core/page/MybatisPageHelper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cloudDemo-core/target/classes/com/froufrou/cloudDemo/core/page/PageRequest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cloudDemo-core/target/classes/com/froufrou/cloudDemo/core/page/PageResult.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cloudDemo-core/target/classes/com/froufrou/cloudDemo/core/service/CurdService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cloudDemo-core/target/cloudDemo-core-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cloudDemo-core/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cloudDemo-core/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cloudDemo-core/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cloudDemo-core/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cloudDemo-pom/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cloudDemo-pom/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cloudDemo-pom/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cloudDemo-pom/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cloudDemo-pom/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cloudDemo-pom/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cloudDemo-pom/cloudDemo-pom.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloudDemo" beforeDir="false" afterPath="$PROJECT_DIR$/../cloudDemo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloudDemo-pom/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cloudDemo-pom/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\yangy\Downloads\cloudDemo\cloudDemo-backup\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1btmCS49cJS0cwIFssmHEKlFgvn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\yangy\Downloads\cloudDemo\cloudDemo-backup\src\main\resources" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="91f45a87-0ba4-4cf4-8909-ca7585bc20f7" name="Default Changelist" comment="" />
+      <created>1589459635173</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589459635173</updated>
+    </task>
+    <servers />
+  </component>
+</project>
