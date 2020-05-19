@@ -1,0 +1,6 @@
+com\froufrou\cloudDemo\common\utils\IOUtils.class
+com\froufrou\cloudDemo\common\utils\PoiUtils.class
+com\froufrou\cloudDemo\common\utils\ReflectionUtils.class
+com\froufrou\cloudDemo\common\utils\DateTimeUtils.class
+com\froufrou\cloudDemo\common\utils\StringUtils.class
+com\froufrou\cloudDemo\common\utils\FileUtils.class

@@ -14,6 +14,8 @@
         <module>../cloudDemo</module>
         <module>../cloudDemo-common</module>
         <module>../cloudDemo-core</module>
+        <module>../cloudDemo-backup</module>
+        <module>../cloudDemo-monitor</module>
     </modules>
 
 </project>
